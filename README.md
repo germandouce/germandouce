@@ -1,51 +1,64 @@
-# 👋 Hola, soy Germán
+# Germán Douce — Software Developer
 
-Esta repo ahora está pensada como **portada/showcase** para mostrar tu perfil técnico de forma rápida.
+> Construyo productos útiles, con foco en calidad, rendimiento y DX.
 
-## 🚀 Qué muestra esta portada
+---
 
-- Tu resumen profesional.
-- Lenguajes y herramientas que manejas.
-- Proyectos destacados.
-- Formas de contacto.
+## 👋 Sobre mí
 
-## 🧰 Stack (ejemplo)
+Soy Germán. Me gusta transformar ideas en software mantenible: desde APIs y automatizaciones hasta frontends que se entienden y se sienten fluidos.
 
-`Python` · `JavaScript` · `TypeScript` · `SQL` · `Git` · `Docker`
+- 🧠 Intereses: arquitectura backend, producto, automatización y tooling.
+- ⚙️ Forma de trabajar: iterar rápido, medir, mejorar.
+- 🤝 Perfil: técnico, pragmático y orientado a entregar valor.
 
-## 📌 Proyectos destacados (ejemplo)
+---
 
-- **API de Inventario** — FastAPI + PostgreSQL + Docker
-- **Dashboard de métricas** — React + TypeScript + Charts
-- **Automatizaciones internas** — Python + GitHub Actions
+## 🧰 Stack que uso de verdad
 
-## 🛠️ Generador de portada por CLI
+**Backend**  
+`Python` · `FastAPI` · `Node.js` · `PostgreSQL` · `Redis`
 
-También dejé un pequeño generador en Python para crear una bio corta en Markdown desde terminal.
+**Frontend**  
+`TypeScript` · `React` · `Next.js`
 
-```bash
-python3 src/main.py \
-  --name "Germán" \
-  --role "Backend Developer" \
-  --skills "Python,FastAPI,PostgreSQL,Docker"
-```
+**Infra / DevOps**  
+`Docker` · `GitHub Actions` · `Linux` · `Nginx`
 
-Ejemplo de salida:
+**Calidad**  
+`pytest` · `unittest` · `CI/CD` · `code review`
 
-```markdown
-# 👋 Hola, soy Germán
+---
 
-**Backend Developer**
+## 🏗️ Proyectos destacados
 
-## 🧰 Stack
-- Python
-- FastAPI
-- PostgreSQL
-- Docker
-```
+> Reemplaza los enlaces de ejemplo por tus repos reales.
 
-## ✅ Tests
+| Proyecto | Qué resuelve | Stack | Link |
+|---|---|---|---|
+| **Project Alpha** | API para gestión de datos de negocio con auth y métricas | FastAPI, PostgreSQL, Docker | `https://github.com/TU_USUARIO/project-alpha` |
+| **Project Beta** | Dashboard para seguimiento de KPIs en tiempo real | React, TypeScript, Charts | `https://github.com/TU_USUARIO/project-beta` |
+| **Project Gamma** | Automatizaciones para flujos internos y reporting | Python, GitHub Actions | `https://github.com/TU_USUARIO/project-gamma` |
 
-```bash
-python3 -m unittest discover -s tests -p 'test_*.py'
-```
+---
+
+## 📈 Cómo trabajo
+
+- Diseño primero el problema y los límites del sistema.
+- Entrego una versión funcional temprano.
+- Automatizo tests y despliegues para evitar regresiones.
+- Documento lo suficiente para escalar equipo y mantenimiento.
+
+---
+
+## 🌍 Contacto
+
+- LinkedIn: `https://linkedin.com/in/TU_USUARIO`
+- Email: `tu-email@dominio.com`
+- Portfolio (opcional): `https://tu-dominio.dev`
+
+---
+
+## 📝 Nota
+
+Si llegaste acá por un repo específico, en mi perfil vas a ver ejemplos de código en backend, frontend y automatización.
