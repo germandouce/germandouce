@@ -62,3 +62,5 @@ Soy Germán. Me gusta transformar ideas en software mantenible: desde APIs y aut
 ## 📝 Nota
 
 Si llegaste acá por un repo específico, en mi perfil vas a ver ejemplos de código en backend, frontend y automatización.
+
+Este repositorio se mantiene como carta de presentación (sin código ejecutable ni tests en `src/`/`tests/`).
