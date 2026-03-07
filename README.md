@@ -8,7 +8,7 @@
 
 Soy Germán. Me gusta.
 
-- 🧠 Intereses: requisitos, automatización IA.
+- 🧠 Intereses: Analisi de negocio, automatización, IA.
 - ⚙️ Forma de trabajar: 
 - 🤝 Perfil: .
 
@@ -16,9 +16,8 @@ Soy Germán. Me gusta.
 
 ## 🌍 Contacto
 
-- LinkedIn: `https://linkedin.com/in/TU_USUARIO`
-- Email: `tu-email@dominio.com`
-- Portfolio (opcional): `https://tu-dominio.dev`
+- LinkedIn: `https://www.linkedin.com/in/german-alejandro-douce/`
+- Email: `germandouce@gmail.com`
 
 ---
 
