@@ -1,15 +1,11 @@
-# Germán Douce — Estudiante avanzado de Lic en Sistemas en la UBA
+# Germán Douce — Estudiante avanzado de Licenciatura en Análisis de Sistemas en la FIUBA
 
-> Tengo un perfil orientado al desarrollo de software pero estoy muy interesado en BI, BA, gestión de procesos, calidad y auditoría
+## Sobre mí
+Intereses: Auditoría, QA, análisis de procesos, BI, BA y automatización.
 
----
+Perfil: Proactividad, trabajo en equipo, flexibilidad, autonomía y creatividad.
 
-## 👋 Sobre mí
-
-- 🧠 Intereses: Analisis de negocio, automatización, IA.
-- 🤝 Perfil: Proactividad, Trabajo en equipo, Flexibilidad, Autonomía, Creatividad
-- ⚙️ Forma de trabajar: 
-
+Enfoque: Analizar, proponer, implementar y mejorar.
 ---
 
 ## 🌍 Contacto
@@ -19,6 +15,6 @@
 
 ---
 
-## 📝 Nota
+## Nota
 
 hola
