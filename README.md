@@ -5,7 +5,7 @@ Intereses: Auditoría, QA, análisis de procesos, BI, BA y automatización.
 
 Perfil: Proactividad, trabajo en equipo, flexibilidad, autonomía y creatividad.
 
-Enfoque: Analizar, proponer, implementar y mejorar.
+Enfoque: Analizar -> proponer -> implementar -> mejorar ↻
 
 ---
 
@@ -15,7 +15,3 @@ Enfoque: Analizar, proponer, implementar y mejorar.
 - Email: `germandouce@gmail.com`
 
 ---
-
-## Nota
-
-hola
