@@ -6,6 +6,7 @@ Intereses: Auditoría, QA, análisis de procesos, BI, BA y automatización.
 Perfil: Proactividad, trabajo en equipo, flexibilidad, autonomía y creatividad.
 
 Enfoque: Analizar, proponer, implementar y mejorar.
+
 ---
 
 ## 🌍 Contacto
