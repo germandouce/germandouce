@@ -1,7 +1,7 @@
 # Germán Douce — Estudiante avanzado de Licenciatura en Análisis de Sistemas en la FIUBA
 
 ## Sobre mí
-Intereses: Auditoría, QA, análisis de procesos, BI, BA y automatización.
+Intereses: Análisis de procesos, BI, BA, Auditoría, QA, automatización.
 
 Perfil: Proactividad, trabajo en equipo, flexibilidad, autonomía y creatividad.
 
